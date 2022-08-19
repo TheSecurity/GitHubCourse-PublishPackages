@@ -15,5 +15,5 @@ jobs:
           username: TheSecurity
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: docker.pkg.github.com
-          repository: TheSecurity/publish-packages/game
+          repository: thesecurity/publish-packages/game
           tag_with_sha: true
